@@ -10,3 +10,28 @@
 	},
 	"shoppingCart": []
 }
+{
+	"firstName": "Jordi",
+	"lastName": "Lickahoe",
+	"dateBirth": ISODate("1920-12-10T18:28:09.369Z"),
+	"address": {
+	 "streetAddress": "1234 Fuck Spain Drive",
+	 "city": "Catalunya",
+	 "state": "Catalunya",
+	 "postalCode": "19426"
+	},
+	"shoppingCart": []
+}
+
+{
+	"firstName": "Phil",
+	"lastName": "Wisner",
+	"dateBirth": ISODate("1991-12-10T18:28:09.369Z"),
+	"address": {
+	 "streetAddress": "466 Caredean Drive",
+	 "city": "Philadelphia",
+	 "state": "PA",
+	 "postalCode": "19426"
+	},
+	"shoppingCart": []
+}
